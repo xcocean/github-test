@@ -1,3 +1,7 @@
+# 把开发工具生成的过滤掉
+.idea
+.project
+
 # Compiled class file
 *.class
 
